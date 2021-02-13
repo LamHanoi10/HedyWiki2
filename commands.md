@@ -10,6 +10,7 @@ Economy
 # &work : Work a job
 # &daily : Get a daily
 # &crime : Use Crime
+# &give-coins <@Member> <Coins> : Give coins for a member
 Fun
 # &randomcode : Send a random code
 # &tictactoe : Play tic tac toe with a member (reconlx package)
