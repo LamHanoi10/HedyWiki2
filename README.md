@@ -1,1 +1,2 @@
-# HedyWiki2
+# Hedy Discord Command
+# Default Prefix: &
