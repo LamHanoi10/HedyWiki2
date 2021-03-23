@@ -1,16 +1,16 @@
-# Default Prefix: &
-Info
-# &help <Command (Optinal)> : Show all commands of Hedy
+# Prefix: ? (Can Be Changed)
+**Info
+?help <Command (Optional)> : Show all commands of Hedy
 Custom Commands
-# &ccreate <Command Name> <Command Response> : Create a custom command with response
-# &cdelete <Command Name> : Delete a custom command
-Economy
-# &add-coins <@Member> <Coins> : Add coins for a member
-# &remove-coins <@Member> <Coins> : Remove coins for a member
-# &work : Work a job
-# &daily : Get a daily
-# &crime : Use Crime
-# &give-coins <@Member> <Coins> : Give coins for a member
+ccreate <Command Name> <Command Response> : Create a custom command with response
+cdelete <Command Name> : Delete a custom command
+**Economy
+add-coins <@Member> <Coins> : Add coins for a member
+remove-coins <@Member> <Coins> : Remove coins for a member
+work : Work a job
+daily : Get a daily
+crime : Use Crime
+give-coins <@Member> <Coins> : Give coins for a member
 Fun
 # &randomcode : Send a random code
 # &tictactoe : Play tic tac toe with a member (reconlx package)
